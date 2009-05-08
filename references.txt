@@ -13,6 +13,7 @@ http://github.com/schacon/git-presentations/tree/master
 
 http://www.readwriteweb.com/archives/github_a_social_network_for_programmers.php
 
+http://git.or.cz/gitwiki/GitSvnComparsion
 
 Resources
 
