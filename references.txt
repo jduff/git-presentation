@@ -18,3 +18,9 @@ http://git.or.cz/gitwiki/GitSvnComparsion
 Resources
 
 http://git.or.cz/course/svn.html
+
+http://flanders.co.nz/2009/03/21/gitgithub-survival-guide/
+
+http://kylecordes.com/2008/03/22/git-windows-works/
+
+http://github.com/guides/using-git-and-github-for-the-windows-for-newbies
