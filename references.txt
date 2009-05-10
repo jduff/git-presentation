@@ -1,3 +1,5 @@
+References
+
 rockem_sockem.jpg
 http://farm3.static.flickr.com/2075/1697408176_6b7f192ba1.jpg?v=0
 
@@ -7,13 +9,12 @@ http://en.wikipedia.org/wiki/Git_(software)
 github-logo.png
 http://gihub.com
 
-
-
 http://github.com/schacon/git-presentations/tree/master
 
 http://www.readwriteweb.com/archives/github_a_social_network_for_programmers.php
 
 http://git.or.cz/gitwiki/GitSvnComparsion
+
 
 Resources
 
